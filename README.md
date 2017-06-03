@@ -1,1 +1,2 @@
-# hello-world
+# cti 110
+Armenta practice
